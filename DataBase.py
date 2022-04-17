@@ -12,7 +12,7 @@ class User():
         self.saveData()
     @property
     def keyboard(self):
-            return telebot.types.ReplyKeyboardMarkup(True, False, True).add(*self.cities+['/settings'])
+            return telebot.types.ReplyKeyboardMarkup(True, False, True).add('/settings')
     @property
     def lang(self):
         return self.__lang
@@ -35,7 +35,5 @@ try: file = open('users.pkl','rb')
 except:
     file = open('users.pkl','x')
     users = dict()
-else:
-    users = pickle.load(file)
-    print(users)
+else: users = pickle.load(file)
 finally: file.close()
