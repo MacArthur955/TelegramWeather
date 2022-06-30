@@ -1,5 +1,4 @@
 <h1>TelegramWeather</h1>
-<p>To try how does it work, type in telegram search bar: <b>@WeatherStudio_bot</b></p>
 <p>
   <img src="https://img.shields.io/badge/working%20with-telegram-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAjxJREFUOE99U0toE1EUPfcmUy01aqJD0aaTWG1NtIbaKhK6KFhwpZu6T1BE6aILd8VkJQktrnThp6LYZCXqwqU7FSFp46+k0AqFaMBoo9Qifqj9zMibyUwno3TgzePd9865v3MJji84lgupq4gD3AegrXZdAtTn7G7IfLhw5J0dQvZD4OZkStO0hJO0DkBaujwYTZo2i0C5MZEBENsYTCAiEFP2/fmjcfFWJ9jIsw6wL+gE4p+eO3c4ScGxVyF1bXX2f56ZWTczMUAEFosJmoATCVuYlOsTIyAM6+EIo76zeK/vkotwIuDFmU4ZEbkJB7PF2r2IAqOCIAdC1AhzHdjr96Bf8eJ0uw/jrysYPNaKt19/I/akBGIWMYhU8hS8VZgnomZB0O5txMm9Phxv3Yb9vkYUqz+BpT+IBHbokY3PLODq1Be7oyq13X45T8TNgnGoexe65Cb0tnhQKC/C4yKE/dut8lx88RHPKr/0WogcibhK++68yTFx1CyS2ENbG3C5R8YBv7eutv2PS/i+rJpdEER56rg7NcLMw3YCkc6ViAcaMw4pMlq2SJheWMLZpxUjd6utGKWOe8WQ2+WatYy1Pg/t2YyHn5fBbgmXemSUf6zg2vRinSZYcof1vnVmZ1LElLB3YecmxrcVo7XOJTAakC4MKElLyl335zIEionmCuGYOjDPDqFlJweUdSmbl90PSikiJAzl1RToQJqe/xkm0xB99Cmk8locUPtAZIyzRsY4S1Imf2p33Tj/BfBak1nSV4HZAAAAAElFTkSuQmCC"/>
   <img src="https://img.shields.io/badge/python-100%25-blue"/><br>
